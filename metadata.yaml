@@ -1,0 +1,30 @@
+_repo: A-Waif-of-the-Plains_2279
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: If you can't get enough of action-adventure stories of pioneer life in
+  the American West, dive into this tale from Bret Harte, one of the most renowned
+  documenters of the era. In A Waif of the Plains, Harte recounts the story of an
+  orphan traveling the Oregon Trail in the 1850s.
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- United States -- Fiction'
+- !lcsh 'Overland journeys to the Pacific -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Waif of the Plains
+url: http://www.gutenberg.org/ebooks/2279
